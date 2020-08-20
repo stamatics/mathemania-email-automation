@@ -1,0 +1,1 @@
+# mathemania-email-automation
